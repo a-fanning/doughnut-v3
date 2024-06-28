@@ -1,0 +1,1111 @@
+scenario,domain,dimension,date,indicator,value,BAU_low,BAU_high
+historical,ecological,climate change,2000,co2_ppm,368.83,NA,NA
+historical,ecological,climate change,2001,co2_ppm,370.41,NA,NA
+historical,ecological,climate change,2002,co2_ppm,372.42,NA,NA
+historical,ecological,climate change,2003,co2_ppm,374.97,NA,NA
+historical,ecological,climate change,2004,co2_ppm,376.79,NA,NA
+historical,ecological,climate change,2005,co2_ppm,378.82,NA,NA
+historical,ecological,climate change,2006,co2_ppm,380.96,NA,NA
+historical,ecological,climate change,2007,co2_ppm,382.69,NA,NA
+historical,ecological,climate change,2008,co2_ppm,384.79,NA,NA
+historical,ecological,climate change,2009,co2_ppm,386.29,NA,NA
+historical,ecological,climate change,2010,co2_ppm,388.57,NA,NA
+historical,ecological,climate change,2011,co2_ppm,390.45,NA,NA
+historical,ecological,climate change,2012,co2_ppm,392.46,NA,NA
+historical,ecological,climate change,2013,co2_ppm,395.2,NA,NA
+historical,ecological,climate change,2014,co2_ppm,397.12,NA,NA
+historical,ecological,climate change,2015,co2_ppm,399.42,NA,NA
+historical,ecological,climate change,2016,co2_ppm,402.85,NA,NA
+historical,ecological,climate change,2017,co2_ppm,405,NA,NA
+historical,ecological,climate change,2018,co2_ppm,407.39,NA,NA
+historical,ecological,climate change,2019,co2_ppm,409.85,NA,NA
+historical,ecological,climate change,2020,co2_ppm,412.3,NA,NA
+historical,ecological,climate change,2021,co2_ppm,414.5,NA,NA
+bau,ecological,climate change,2022,co2_ppm,416.85119072468484,416.4229967668687,417.27938468250096
+bau,ecological,climate change,2023,co2_ppm,419.097098480104,418.5008644751159,419.6933324850921
+bau,ecological,climate change,2024,co2_ppm,421.34300623552326,420.4814993240677,422.2045131469788
+bau,ecological,climate change,2025,co2_ppm,423.5889139909425,422.39273756121173,424.78509042067327
+bau,ecological,climate change,2026,co2_ppm,425.83482174636174,424.2506029348018,427.4190405579217
+bau,ecological,climate change,2027,co2_ppm,428.0807295017809,426.06375464211766,430.0977043614442
+bau,ecological,climate change,2028,co2_ppm,430.32663725720016,427.83738929408236,432.81588522031797
+bau,ecological,climate change,2029,co2_ppm,432.5725450126194,429.57497885535986,435.57011116987894
+bau,ecological,climate change,2030,co2_ppm,434.8184527680386,431.27904135961234,438.35786417646483
+historical,ecological,climate change,2000,erf_wm2,1.77,NA,NA
+historical,ecological,climate change,2001,erf_wm2,1.79,NA,NA
+historical,ecological,climate change,2002,erf_wm2,1.77,NA,NA
+historical,ecological,climate change,2003,erf_wm2,1.79,NA,NA
+historical,ecological,climate change,2004,erf_wm2,1.82,NA,NA
+historical,ecological,climate change,2005,erf_wm2,1.82,NA,NA
+historical,ecological,climate change,2006,erf_wm2,1.84,NA,NA
+historical,ecological,climate change,2007,erf_wm2,1.91,NA,NA
+historical,ecological,climate change,2008,erf_wm2,1.98,NA,NA
+historical,ecological,climate change,2009,erf_wm2,2.06,NA,NA
+historical,ecological,climate change,2010,erf_wm2,2.12,NA,NA
+historical,ecological,climate change,2011,erf_wm2,2.17,NA,NA
+historical,ecological,climate change,2012,erf_wm2,2.19,NA,NA
+historical,ecological,climate change,2013,erf_wm2,2.3,NA,NA
+historical,ecological,climate change,2014,erf_wm2,2.35,NA,NA
+historical,ecological,climate change,2015,erf_wm2,2.41,NA,NA
+historical,ecological,climate change,2016,erf_wm2,2.54,NA,NA
+historical,ecological,climate change,2017,erf_wm2,2.58,NA,NA
+historical,ecological,climate change,2018,erf_wm2,2.64,NA,NA
+historical,ecological,climate change,2019,erf_wm2,2.64,NA,NA
+historical,ecological,climate change,2020,erf_wm2,2.79,NA,NA
+historical,ecological,climate change,2021,erf_wm2,2.77,NA,NA
+bau,ecological,climate change,2022,erf_wm2,2.84014102287624,2.7869659523086057,2.893316093443875
+bau,ecological,climate change,2023,erf_wm2,2.887979122534339,2.8126949254550886,2.96326331961359
+bau,ecological,climate change,2024,erf_wm2,2.935817222192438,2.8310053417261756,3.0406291026587007
+bau,ecological,climate change,2025,erf_wm2,2.983655321850537,2.8436427889208407,3.1236678547802335
+bau,ecological,climate change,2026,erf_wm2,3.031493421508636,2.851571431158914,3.211415411858358
+bau,ecological,climate change,2027,erf_wm2,3.0793315211667354,2.8553453534973356,3.303317688836135
+bau,ecological,climate change,2028,erf_wm2,3.1271696208248345,2.8553130781874607,3.3990261634622083
+bau,ecological,climate change,2029,erf_wm2,3.1750077204829337,2.8517118696859725,3.498303571279895
+bau,ecological,climate change,2030,erf_wm2,3.222845820141033,2.844713042416337,3.6009785978657285
+historical,ecological,ocean acidification,2000,omega_a,2.987,NA,NA
+historical,ecological,ocean acidification,2001,omega_a,2.986,NA,NA
+historical,ecological,ocean acidification,2002,omega_a,2.972,NA,NA
+historical,ecological,ocean acidification,2003,omega_a,2.977,NA,NA
+historical,ecological,ocean acidification,2004,omega_a,2.963,NA,NA
+historical,ecological,ocean acidification,2005,omega_a,2.951,NA,NA
+historical,ecological,ocean acidification,2006,omega_a,2.936,NA,NA
+historical,ecological,ocean acidification,2007,omega_a,2.917,NA,NA
+historical,ecological,ocean acidification,2008,omega_a,2.913,NA,NA
+historical,ecological,ocean acidification,2009,omega_a,2.916,NA,NA
+historical,ecological,ocean acidification,2010,omega_a,2.906,NA,NA
+historical,ecological,ocean acidification,2011,omega_a,2.88,NA,NA
+historical,ecological,ocean acidification,2012,omega_a,2.878,NA,NA
+historical,ecological,ocean acidification,2013,omega_a,2.88,NA,NA
+historical,ecological,ocean acidification,2014,omega_a,2.881,NA,NA
+historical,ecological,ocean acidification,2015,omega_a,2.877,NA,NA
+historical,ecological,ocean acidification,2016,omega_a,2.856,NA,NA
+historical,ecological,ocean acidification,2017,omega_a,2.84,NA,NA
+historical,ecological,ocean acidification,2018,omega_a,2.824,NA,NA
+historical,ecological,ocean acidification,2019,omega_a,2.827,NA,NA
+historical,ecological,ocean acidification,2020,omega_a,2.818,NA,NA
+historical,ecological,ocean acidification,2021,omega_a,2.8,NA,NA
+bau,ecological,ocean acidification,2022,omega_a,2.791095238095247,2.7823377241426948,2.799852752047799
+bau,ecological,ocean acidification,2023,omega_a,2.7821904761904936,2.769805481186123,2.7945754711948645
+bau,ecological,ocean acidification,2024,omega_a,2.7732857142857408,2.7581172551719275,2.788454173399554
+bau,ecological,ocean acidification,2025,omega_a,2.7643809523809875,2.7468659244758835,2.7818959802860914
+bau,ecological,ocean acidification,2026,omega_a,2.7554761904762346,2.7358937939644257,2.7750585869880435
+bau,ecological,ocean acidification,2027,omega_a,2.7465714285714817,2.725119987972425,2.7680228691705384
+bau,ecological,ocean acidification,2028,omega_a,2.7376666666667284,2.7144964626450974,2.7608368706883595
+bau,ecological,ocean acidification,2029,omega_a,2.7287619047619756,2.7039919147532343,2.753531894770717
+bau,ecological,ocean acidification,2030,omega_a,2.7198571428572222,2.693584600999566,2.7461296847148784
+bau,ecological,ocean acidification,2031,omega_a,2.7109523809524694,2.6832586902217015,2.7386460716832373
+historical,ecological,chemical pollution,2000,chemicalsMt,1186,NA,NA
+historical,ecological,chemical pollution,2001,chemicalsMt,1250.1176470588234,NA,NA
+historical,ecological,chemical pollution,2002,chemicalsMt,1314.235294117647,NA,NA
+historical,ecological,chemical pollution,2003,chemicalsMt,1378.3529411764707,NA,NA
+historical,ecological,chemical pollution,2004,chemicalsMt,1442.4705882352941,NA,NA
+historical,ecological,chemical pollution,2005,chemicalsMt,1506.5882352941176,NA,NA
+historical,ecological,chemical pollution,2006,chemicalsMt,1570.7058823529412,NA,NA
+historical,ecological,chemical pollution,2007,chemicalsMt,1634.8235294117646,NA,NA
+historical,ecological,chemical pollution,2008,chemicalsMt,1698.9411764705883,NA,NA
+historical,ecological,chemical pollution,2009,chemicalsMt,1763.0588235294117,NA,NA
+historical,ecological,chemical pollution,2010,chemicalsMt,1827.1764705882354,NA,NA
+historical,ecological,chemical pollution,2011,chemicalsMt,1891.294117647059,NA,NA
+historical,ecological,chemical pollution,2012,chemicalsMt,1955.4117647058824,NA,NA
+historical,ecological,chemical pollution,2013,chemicalsMt,2019.5294117647059,NA,NA
+historical,ecological,chemical pollution,2014,chemicalsMt,2083.6470588235293,NA,NA
+historical,ecological,chemical pollution,2015,chemicalsMt,2147.764705882353,NA,NA
+historical,ecological,chemical pollution,2016,chemicalsMt,2211.8823529411766,NA,NA
+historical,ecological,chemical pollution,2017,chemicalsMt,2276,NA,NA
+bau,ecological,chemical pollution,2018,chemicalsMt,2340.1176470588234,NA,NA
+bau,ecological,chemical pollution,2019,chemicalsMt,2404.235294117647,NA,NA
+bau,ecological,chemical pollution,2020,chemicalsMt,2468.3529411764707,NA,NA
+bau,ecological,chemical pollution,2021,chemicalsMt,2532.470588235294,NA,NA
+bau,ecological,chemical pollution,2022,chemicalsMt,2596.5882352941176,2596.5882352941176,2596.5882352941176
+bau,ecological,chemical pollution,2023,chemicalsMt,2660.705882352941,2660.705882352941,2660.705882352941
+bau,ecological,chemical pollution,2024,chemicalsMt,2724.8235294117644,2724.8235294117644,2724.8235294117644
+bau,ecological,chemical pollution,2025,chemicalsMt,2788.9411764705883,2788.9411764705883,2788.9411764705883
+bau,ecological,chemical pollution,2026,chemicalsMt,2853.0588235294117,2853.0588235294117,2853.0588235294117
+bau,ecological,chemical pollution,2027,chemicalsMt,2917.176470588235,2917.176470588235,2917.176470588235
+bau,ecological,chemical pollution,2028,chemicalsMt,2981.2941176470586,2981.2941176470586,2981.2941176470586
+bau,ecological,chemical pollution,2029,chemicalsMt,3045.411764705882,3045.411764705882,3045.411764705882
+bau,ecological,chemical pollution,2030,chemicalsMt,3109.5294117647054,3109.5294117647054,3109.5294117647054
+historical,ecological,chemical pollution,2000,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2001,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2002,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2003,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2004,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2005,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2006,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2007,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2008,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2009,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2010,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2011,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2012,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2013,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2014,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2015,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2016,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2017,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2018,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2019,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2020,EUshare_hzdHealth,76.63,NA,NA
+historical,ecological,chemical pollution,2021,EUshare_hzdHealth,76.63,NA,NA
+bau,ecological,chemical pollution,2022,EUshare_hzdHealth,76.63,76.63,76.63
+bau,ecological,chemical pollution,2023,EUshare_hzdHealth,76.63,76.63,76.63
+bau,ecological,chemical pollution,2024,EUshare_hzdHealth,76.63,76.63,76.63
+bau,ecological,chemical pollution,2025,EUshare_hzdHealth,76.63,76.63,76.63
+bau,ecological,chemical pollution,2026,EUshare_hzdHealth,76.63,76.63,76.63
+bau,ecological,chemical pollution,2027,EUshare_hzdHealth,76.63,76.63,76.63
+bau,ecological,chemical pollution,2028,EUshare_hzdHealth,76.63,76.63,76.63
+bau,ecological,chemical pollution,2029,EUshare_hzdHealth,76.63,76.63,76.63
+bau,ecological,chemical pollution,2030,EUshare_hzdHealth,76.63,76.63,76.63
+historical,ecological,nutrient pollution,2000,nitrogenMt,132.2432713,NA,NA
+historical,ecological,nutrient pollution,2001,nitrogenMt,134.93367778,NA,NA
+historical,ecological,nutrient pollution,2002,nitrogenMt,137.62408426000002,NA,NA
+historical,ecological,nutrient pollution,2003,nitrogenMt,140.31449074,NA,NA
+historical,ecological,nutrient pollution,2004,nitrogenMt,143.00489722,NA,NA
+historical,ecological,nutrient pollution,2005,nitrogenMt,145.6953037,NA,NA
+historical,ecological,nutrient pollution,2006,nitrogenMt,148.6046776,NA,NA
+historical,ecological,nutrient pollution,2007,nitrogenMt,151.5140515,NA,NA
+historical,ecological,nutrient pollution,2008,nitrogenMt,154.4234254,NA,NA
+historical,ecological,nutrient pollution,2009,nitrogenMt,157.3327993,NA,NA
+historical,ecological,nutrient pollution,2010,nitrogenMt,160.2421732,NA,NA
+historical,ecological,nutrient pollution,2011,nitrogenMt,163.24602382,NA,NA
+historical,ecological,nutrient pollution,2012,nitrogenMt,166.24987444,NA,NA
+historical,ecological,nutrient pollution,2013,nitrogenMt,169.25372506,NA,NA
+historical,ecological,nutrient pollution,2014,nitrogenMt,172.25757568,NA,NA
+historical,ecological,nutrient pollution,2015,nitrogenMt,175.2614263,NA,NA
+historical,ecological,nutrient pollution,2016,nitrogenMt,178.13090856,NA,NA
+historical,ecological,nutrient pollution,2017,nitrogenMt,181.00039082,NA,NA
+historical,ecological,nutrient pollution,2018,nitrogenMt,183.86987308,NA,NA
+historical,ecological,nutrient pollution,2019,nitrogenMt,186.73935534,NA,NA
+historical,ecological,nutrient pollution,2020,nitrogenMt,189.6088376,NA,NA
+historical,ecological,nutrient pollution,2021,nitrogenMt,191.97349848,NA,NA
+bau,ecological,nutrient pollution,2022,nitrogenMt,194.3548248687162,194.21673248092267,194.49291725650974
+bau,ecological,nutrient pollution,2023,nitrogenMt,196.73610077257615,196.43061694526546,197.04158459988685
+bau,ecological,nutrient pollution,2024,nitrogenMt,199.1173766764361,198.60768953295002,199.62706381992217
+bau,ecological,nutrient pollution,2025,nitrogenMt,201.49865258029604,200.7527490155816,202.24455614501048
+bau,ecological,nutrient pollution,2026,nitrogenMt,203.879928484156,202.86902713716142,204.8908298311506
+bau,ecological,nutrient pollution,2027,nitrogenMt,206.26120438801595,204.95883162997737,207.56357714605454
+bau,ecological,nutrient pollution,2028,nitrogenMt,208.6424802918759,207.02389870751082,210.26106187624097
+bau,ecological,nutrient pollution,2029,nitrogenMt,211.02375619573584,209.0655860328256,212.9819263586461
+bau,ecological,nutrient pollution,2030,nitrogenMt,213.4050320995958,211.08498641328111,215.72507778591046
+historical,ecological,nutrient pollution,2000,phosphorusMt,13.549286446478872,NA,NA
+historical,ecological,nutrient pollution,2001,phosphorusMt,14.09326414225352,NA,NA
+historical,ecological,nutrient pollution,2002,phosphorusMt,14.637241838028167,NA,NA
+historical,ecological,nutrient pollution,2003,phosphorusMt,15.181219533802816,NA,NA
+historical,ecological,nutrient pollution,2004,phosphorusMt,15.725197229577464,NA,NA
+historical,ecological,nutrient pollution,2005,phosphorusMt,16.26917492535211,NA,NA
+historical,ecological,nutrient pollution,2006,phosphorusMt,16.690833231549295,NA,NA
+historical,ecological,nutrient pollution,2007,phosphorusMt,17.11249153774648,NA,NA
+historical,ecological,nutrient pollution,2008,phosphorusMt,17.53414984394366,NA,NA
+historical,ecological,nutrient pollution,2009,phosphorusMt,17.955808150140843,NA,NA
+historical,ecological,nutrient pollution,2010,phosphorusMt,18.377466456338027,NA,NA
+historical,ecological,nutrient pollution,2011,phosphorusMt,18.772538909295772,NA,NA
+historical,ecological,nutrient pollution,2012,phosphorusMt,19.16761136225352,NA,NA
+historical,ecological,nutrient pollution,2013,phosphorusMt,19.562683815211265,NA,NA
+historical,ecological,nutrient pollution,2014,phosphorusMt,19.957756268169014,NA,NA
+historical,ecological,nutrient pollution,2015,phosphorusMt,20.35282872112676,NA,NA
+historical,ecological,nutrient pollution,2016,phosphorusMt,20.875580629577463,NA,NA
+historical,ecological,nutrient pollution,2017,phosphorusMt,21.398332538028168,NA,NA
+historical,ecological,nutrient pollution,2018,phosphorusMt,21.921084446478872,NA,NA
+historical,ecological,nutrient pollution,2019,phosphorusMt,22.443836354929577,NA,NA
+historical,ecological,nutrient pollution,2020,phosphorusMt,22.96658826338028,NA,NA
+historical,ecological,nutrient pollution,2021,phosphorusMt,23.069493470704224,NA,NA
+bau,ecological,nutrient pollution,2022,phosphorusMt,23.195547256409697,23.089432357589462,23.30166215522993
+bau,ecological,nutrient pollution,2023,phosphorusMt,23.316336620234996,23.089230837389234,23.543442403080757
+bau,ecological,nutrient pollution,2024,phosphorusMt,23.432117846641905,23.06228025248602,23.80195544079779
+bau,ecological,nutrient pollution,2025,phosphorusMt,23.543098581731105,23.013145866047093,24.073051297415116
+bau,ecological,nutrient pollution,2026,phosphorusMt,23.649477862234253,22.945140921063057,24.35381480340545
+bau,ecological,nutrient pollution,2027,phosphorusMt,23.751446472473425,22.860782399084055,24.642110545862796
+bau,ecological,nutrient pollution,2028,phosphorusMt,23.84918728652039,22.762069049440193,24.936305523600588
+bau,ecological,nutrient pollution,2029,phosphorusMt,23.94287559616937,22.650640485433154,25.235110706905584
+bau,ecological,nutrient pollution,2030,phosphorusMt,24.03267942531146,22.527874095489864,25.537484755133057
+historical,ecological,air pollution,2000,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2001,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2002,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2003,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2004,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2005,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2006,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2007,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2008,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2009,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2010,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2011,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2012,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2013,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2014,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2015,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2016,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2017,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2018,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2019,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2020,interhemAOD,0.08,NA,NA
+historical,ecological,air pollution,2021,interhemAOD,0.08,NA,NA
+bau,ecological,air pollution,2022,interhemAOD,0.08,0.08,0.08
+bau,ecological,air pollution,2023,interhemAOD,0.08,0.08,0.08
+bau,ecological,air pollution,2024,interhemAOD,0.08,0.08,0.08
+bau,ecological,air pollution,2025,interhemAOD,0.08,0.08,0.08
+bau,ecological,air pollution,2026,interhemAOD,0.08,0.08,0.08
+bau,ecological,air pollution,2027,interhemAOD,0.08,0.08,0.08
+bau,ecological,air pollution,2028,interhemAOD,0.08,0.08,0.08
+bau,ecological,air pollution,2029,interhemAOD,0.08,0.08,0.08
+bau,ecological,air pollution,2030,interhemAOD,0.08,0.08,0.08
+historical,ecological,freshwater disruption,2000,blueDev,17.826,NA,NA
+historical,ecological,freshwater disruption,2001,blueDev,18.639,NA,NA
+historical,ecological,freshwater disruption,2002,blueDev,19.002,NA,NA
+historical,ecological,freshwater disruption,2003,blueDev,17.695,NA,NA
+historical,ecological,freshwater disruption,2004,blueDev,16.962,NA,NA
+historical,ecological,freshwater disruption,2005,blueDev,18.596,NA,NA
+historical,ecological,freshwater disruption,2006,blueDev,18.2,NA,NA
+historical,ecological,freshwater disruption,2007,blueDev,18.2,NA,NA
+historical,ecological,freshwater disruption,2008,blueDev,18.2,NA,NA
+historical,ecological,freshwater disruption,2009,blueDev,18.2,NA,NA
+historical,ecological,freshwater disruption,2010,blueDev,18.2,NA,NA
+historical,ecological,freshwater disruption,2011,blueDev,18.2,NA,NA
+historical,ecological,freshwater disruption,2012,blueDev,18.2,NA,NA
+historical,ecological,freshwater disruption,2013,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2006,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2007,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2008,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2009,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2010,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2011,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2012,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2013,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2014,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2015,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2016,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2017,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2018,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2019,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2020,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2021,blueDev,18.2,NA,NA
+bau,ecological,freshwater disruption,2022,blueDev,18.2,17.3956024151357,18.84439758486431
+bau,ecological,freshwater disruption,2023,blueDev,18.2,17.3956024151357,18.84439758486431
+bau,ecological,freshwater disruption,2024,blueDev,18.2,17.3956024151357,18.84439758486431
+bau,ecological,freshwater disruption,2025,blueDev,18.2,17.3956024151357,18.84439758486431
+bau,ecological,freshwater disruption,2026,blueDev,18.2,17.3956024151357,18.84439758486431
+bau,ecological,freshwater disruption,2027,blueDev,18.2,17.3956024151357,18.84439758486431
+bau,ecological,freshwater disruption,2028,blueDev,18.2,17.3956024151357,18.84439758486431
+bau,ecological,freshwater disruption,2029,blueDev,18.2,17.3956024151357,18.84439758486431
+bau,ecological,freshwater disruption,2030,blueDev,18.2,17.3956024151357,18.84439758486431
+historical,ecological,freshwater disruption,2000,soilDev,15.434,NA,NA
+historical,ecological,freshwater disruption,2001,soilDev,16.371,NA,NA
+historical,ecological,freshwater disruption,2002,soilDev,15.837,NA,NA
+historical,ecological,freshwater disruption,2003,soilDev,16.021,NA,NA
+historical,ecological,freshwater disruption,2004,soilDev,16.015,NA,NA
+historical,ecological,freshwater disruption,2005,soilDev,17.355,NA,NA
+historical,ecological,freshwater disruption,2006,soilDev,16.83,NA,NA
+historical,ecological,freshwater disruption,2007,soilDev,17.016,NA,NA
+historical,ecological,freshwater disruption,2008,soilDev,18.441,NA,NA
+historical,ecological,freshwater disruption,2009,soilDev,18.957,NA,NA
+historical,ecological,freshwater disruption,2010,soilDev,18.677,NA,NA
+historical,ecological,freshwater disruption,2011,soilDev,18.211,NA,NA
+historical,ecological,freshwater disruption,2012,soilDev,17.812,NA,NA
+historical,ecological,freshwater disruption,2013,soilDev,19.739,NA,NA
+historical,ecological,freshwater disruption,2014,soilDev,19.253,NA,NA
+bau,ecological,freshwater disruption,2015,soilDev,19.253,NA,NA
+bau,ecological,freshwater disruption,2016,soilDev,19.253,NA,NA
+bau,ecological,freshwater disruption,2017,soilDev,19.253,NA,NA
+bau,ecological,freshwater disruption,2018,soilDev,19.253,NA,NA
+bau,ecological,freshwater disruption,2019,soilDev,19.253,NA,NA
+bau,ecological,freshwater disruption,2020,soilDev,19.253,NA,NA
+bau,ecological,freshwater disruption,2021,soilDev,19.253,NA,NA
+bau,ecological,freshwater disruption,2022,soilDev,19.253,16.971625375410888,21.534374624589113
+bau,ecological,freshwater disruption,2023,soilDev,19.253,16.833236798789187,21.672763201210813
+bau,ecological,freshwater disruption,2024,soilDev,19.253,16.702345628637843,21.80365437136216
+bau,ecological,freshwater disruption,2025,soilDev,19.253,16.577851126691492,21.92814887330851
+bau,ecological,freshwater disruption,2026,soilDev,19.253,16.458898128811573,22.047101871188428
+bau,ecological,freshwater disruption,2027,soilDev,19.253,16.344806567851176,22.161193432148824
+bau,ecological,freshwater disruption,2028,soilDev,19.253,16.235025047981935,22.270974952018065
+bau,ecological,freshwater disruption,2029,soilDev,19.253,16.12909913998166,22.376900860018342
+bau,ecological,freshwater disruption,2030,soilDev,19.253,16.02664906505225,22.47935093494775
+historical,ecological,land conversion,2000,forestAreaMKM2,39.21,NA,NA
+historical,ecological,land conversion,2001,forestAreaMKM2,39.16,NA,NA
+historical,ecological,land conversion,2002,forestAreaMKM2,39.11,NA,NA
+historical,ecological,land conversion,2003,forestAreaMKM2,39.06,NA,NA
+historical,ecological,land conversion,2004,forestAreaMKM2,39.01,NA,NA
+historical,ecological,land conversion,2005,forestAreaMKM2,38.96,NA,NA
+historical,ecological,land conversion,2006,forestAreaMKM2,38.91,NA,NA
+historical,ecological,land conversion,2007,forestAreaMKM2,38.87,NA,NA
+historical,ecological,land conversion,2008,forestAreaMKM2,38.82,NA,NA
+historical,ecological,land conversion,2009,forestAreaMKM2,38.77,NA,NA
+historical,ecological,land conversion,2010,forestAreaMKM2,38.72,NA,NA
+historical,ecological,land conversion,2011,forestAreaMKM2,38.68,NA,NA
+historical,ecological,land conversion,2012,forestAreaMKM2,38.64,NA,NA
+historical,ecological,land conversion,2013,forestAreaMKM2,38.59,NA,NA
+historical,ecological,land conversion,2014,forestAreaMKM2,38.55,NA,NA
+historical,ecological,land conversion,2015,forestAreaMKM2,38.51,NA,NA
+historical,ecological,land conversion,2016,forestAreaMKM2,38.46,NA,NA
+historical,ecological,land conversion,2017,forestAreaMKM2,38.41,NA,NA
+historical,ecological,land conversion,2018,forestAreaMKM2,38.37,NA,NA
+historical,ecological,land conversion,2019,forestAreaMKM2,38.32,NA,NA
+historical,ecological,land conversion,2020,forestAreaMKM2,38.27,NA,NA
+bau,ecological,land conversion,2021,forestAreaMKM2,38.223015920831415,NA,NA
+bau,ecological,land conversion,2022,forestAreaMKM2,38.17603153974406,38.16940104271738,38.182662036770736
+bau,ecological,land conversion,2023,forestAreaMKM2,38.12904715865671,38.1209312116687,38.137163105644724
+bau,ecological,land conversion,2024,forestAreaMKM2,38.08206277756936,38.07269666023902,38.09142889489971
+bau,ecological,land conversion,2025,forestAreaMKM2,38.03507839648201,38.02461272777397,38.04554406519004
+bau,ecological,land conversion,2026,forestAreaMKM2,37.98809401539466,37.97663596778577,37.99955206300355
+bau,ecological,land conversion,2027,forestAreaMKM2,37.9411096343073,37.92874055552049,37.953478713094114
+bau,ecological,land conversion,2028,forestAreaMKM2,37.894125253219954,37.880909654735326,37.90734085170458
+bau,ecological,land conversion,2029,forestAreaMKM2,37.847140872132606,37.83313156412979,37.86115018013542
+bau,ecological,land conversion,2030,forestAreaMKM2,37.80015649104525,37.78539775910902,37.81491522298148
+historical,ecological,biodiversity breakdown,2000,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2001,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2002,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2003,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2004,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2005,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2006,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2007,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2008,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2009,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2010,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2011,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2012,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2013,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2014,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2015,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2016,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2017,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2018,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2019,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2020,extinction1900,100,NA,NA
+historical,ecological,biodiversity breakdown,2021,extinction1900,100,NA,NA
+bau,ecological,biodiversity breakdown,2022,extinction1900,100,100,100
+bau,ecological,biodiversity breakdown,2023,extinction1900,100,100,100
+bau,ecological,biodiversity breakdown,2024,extinction1900,100,100,100
+bau,ecological,biodiversity breakdown,2025,extinction1900,100,100,100
+bau,ecological,biodiversity breakdown,2026,extinction1900,100,100,100
+bau,ecological,biodiversity breakdown,2027,extinction1900,100,100,100
+bau,ecological,biodiversity breakdown,2028,extinction1900,100,100,100
+bau,ecological,biodiversity breakdown,2029,extinction1900,100,100,100
+bau,ecological,biodiversity breakdown,2030,extinction1900,100,100,100
+historical,ecological,biodiversity breakdown,2000,hanppGtC,14.6,NA,NA
+historical,ecological,biodiversity breakdown,2001,hanppGtC,14.709999999999999,NA,NA
+historical,ecological,biodiversity breakdown,2002,hanppGtC,14.82,NA,NA
+historical,ecological,biodiversity breakdown,2003,hanppGtC,14.93,NA,NA
+historical,ecological,biodiversity breakdown,2004,hanppGtC,15.04,NA,NA
+historical,ecological,biodiversity breakdown,2005,hanppGtC,15.15,NA,NA
+historical,ecological,biodiversity breakdown,2006,hanppGtC,15.26,NA,NA
+historical,ecological,biodiversity breakdown,2007,hanppGtC,15.37,NA,NA
+historical,ecological,biodiversity breakdown,2008,hanppGtC,15.48,NA,NA
+historical,ecological,biodiversity breakdown,2009,hanppGtC,15.59,NA,NA
+historical,ecological,biodiversity breakdown,2010,hanppGtC,15.7,NA,NA
+historical,ecological,biodiversity breakdown,2011,hanppGtC,15.81,NA,NA
+historical,ecological,biodiversity breakdown,2012,hanppGtC,15.92,NA,NA
+historical,ecological,biodiversity breakdown,2013,hanppGtC,16.03,NA,NA
+historical,ecological,biodiversity breakdown,2014,hanppGtC,16.14,NA,NA
+historical,ecological,biodiversity breakdown,2015,hanppGtC,16.25,NA,NA
+historical,ecological,biodiversity breakdown,2016,hanppGtC,16.36,NA,NA
+historical,ecological,biodiversity breakdown,2017,hanppGtC,16.47,NA,NA
+historical,ecological,biodiversity breakdown,2018,hanppGtC,16.580000000000002,NA,NA
+historical,ecological,biodiversity breakdown,2019,hanppGtC,16.69,NA,NA
+historical,ecological,biodiversity breakdown,2020,hanppGtC,16.8,NA,NA
+bau,ecological,biodiversity breakdown,2021,hanppGtC,16.909999999999997,NA,NA
+bau,ecological,biodiversity breakdown,2022,hanppGtC,17.019999999999996,17.019999999999992,17.02
+bau,ecological,biodiversity breakdown,2023,hanppGtC,17.129999999999995,17.129999999999992,17.13
+bau,ecological,biodiversity breakdown,2024,hanppGtC,17.239999999999995,17.23999999999999,17.24
+bau,ecological,biodiversity breakdown,2025,hanppGtC,17.349999999999994,17.34999999999999,17.349999999999998
+bau,ecological,biodiversity breakdown,2026,hanppGtC,17.459999999999994,17.45999999999999,17.459999999999997
+bau,ecological,biodiversity breakdown,2027,hanppGtC,17.569999999999997,17.569999999999993,17.57
+bau,ecological,biodiversity breakdown,2028,hanppGtC,17.679999999999996,17.679999999999993,17.68
+bau,ecological,biodiversity breakdown,2029,hanppGtC,17.789999999999996,17.789999999999992,17.79
+bau,ecological,biodiversity breakdown,2030,hanppGtC,17.899999999999995,17.89999999999999,17.9
+historical,ecological,ozone depletion,2000,totalOzone,284.3,NA,NA
+historical,ecological,ozone depletion,2001,totalOzone,284.8,NA,NA
+historical,ecological,ozone depletion,2002,totalOzone,280.4,NA,NA
+historical,ecological,ozone depletion,2003,totalOzone,286.2,NA,NA
+historical,ecological,ozone depletion,2004,totalOzone,279.5,NA,NA
+historical,ecological,ozone depletion,2005,totalOzone,284.9,NA,NA
+historical,ecological,ozone depletion,2006,totalOzone,279,NA,NA
+historical,ecological,ozone depletion,2007,totalOzone,285.8,NA,NA
+historical,ecological,ozone depletion,2008,totalOzone,280.1,NA,NA
+historical,ecological,ozone depletion,2009,totalOzone,284,NA,NA
+historical,ecological,ozone depletion,2010,totalOzone,285.7,NA,NA
+historical,ecological,ozone depletion,2011,totalOzone,285.4,NA,NA
+historical,ecological,ozone depletion,2012,totalOzone,285.4,NA,NA
+historical,ecological,ozone depletion,2013,totalOzone,279.7,NA,NA
+historical,ecological,ozone depletion,2014,totalOzone,285.5,NA,NA
+historical,ecological,ozone depletion,2015,totalOzone,285.4,NA,NA
+historical,ecological,ozone depletion,2016,totalOzone,279.2,NA,NA
+historical,ecological,ozone depletion,2017,totalOzone,283.7,NA,NA
+historical,ecological,ozone depletion,2018,totalOzone,286.3,NA,NA
+historical,ecological,ozone depletion,2019,totalOzone,279.6,NA,NA
+historical,ecological,ozone depletion,2020,totalOzone,282,NA,NA
+historical,ecological,ozone depletion,2021,totalOzone,284.6,NA,NA
+bau,ecological,ozone depletion,2022,totalOzone,283.2501520832216,280.61684516569244,285.8834590007508
+bau,ecological,ozone depletion,2023,totalOzone,283.2501520832216,280.61684515252097,285.8834590139223
+bau,ecological,ozone depletion,2024,totalOzone,283.2501520832216,280.61684513934694,285.8834590270963
+bau,ecological,ozone depletion,2025,totalOzone,283.2501520832216,280.6168451261754,285.88345904026784
+bau,ecological,ozone depletion,2026,totalOzone,283.2501520832216,280.6168451129989,285.88345905344437
+bau,ecological,ozone depletion,2027,totalOzone,283.2501520832216,280.61684509982734,285.8834590666159
+bau,ecological,ozone depletion,2028,totalOzone,283.2501520832216,280.61684508665337,285.8834590797899
+bau,ecological,ozone depletion,2029,totalOzone,283.2501520832216,280.61684507348184,285.8834590929614
+bau,ecological,ozone depletion,2030,totalOzone,283.2501520832216,280.6168450603078,285.88345910613543
+historical,social,food,2000,foodInsecurity,NA,NA,NA
+historical,social,food,2001,foodInsecurity,NA,NA,NA
+historical,social,food,2002,foodInsecurity,NA,NA,NA
+historical,social,food,2003,foodInsecurity,NA,NA,NA
+historical,social,food,2004,foodInsecurity,NA,NA,NA
+historical,social,food,2005,foodInsecurity,NA,NA,NA
+historical,social,food,2006,foodInsecurity,NA,NA,NA
+historical,social,food,2007,foodInsecurity,NA,NA,NA
+historical,social,food,2008,foodInsecurity,NA,NA,NA
+historical,social,food,2009,foodInsecurity,NA,NA,NA
+historical,social,food,2010,foodInsecurity,NA,NA,NA
+historical,social,food,2011,foodInsecurity,NA,NA,NA
+historical,social,food,2012,foodInsecurity,NA,NA,NA
+historical,social,food,2013,foodInsecurity,NA,NA,NA
+historical,social,food,2014,foodInsecurity,21.2,NA,NA
+historical,social,food,2015,foodInsecurity,21.5,NA,NA
+historical,social,food,2016,foodInsecurity,22.7,NA,NA
+historical,social,food,2017,foodInsecurity,23.9,NA,NA
+historical,social,food,2018,foodInsecurity,25,NA,NA
+historical,social,food,2019,foodInsecurity,25.4,NA,NA
+historical,social,food,2020,foodInsecurity,29.5,NA,NA
+historical,social,food,2021,foodInsecurity,29.3,NA,NA
+bau,social,food,2022,foodInsecurity,29.300019961759972,27.17681007083099,31.423229852688955
+bau,social,food,2023,foodInsecurity,29.300019961759972,26.29317202485129,32.306867898668656
+bau,social,food,2024,foodInsecurity,29.300019961759972,25.61214940897063,32.987890514549314
+bau,social,food,2025,foodInsecurity,29.300019961759972,25.03552291330535,33.564517010214594
+bau,social,food,2026,foodInsecurity,29.300019961759972,24.525302827582614,34.07473709593733
+bau,social,food,2027,foodInsecurity,29.300019961759972,24.06203298172155,34.53800694179839
+bau,social,food,2028,foodInsecurity,29.300019961759972,23.634171383298646,34.9658685402213
+bau,social,food,2029,foodInsecurity,29.300019961759972,23.23420793931645,35.365831984203496
+bau,social,food,2030,foodInsecurity,29.300019961759972,22.856933056212,35.743106867307944
+historical,social,food,2000,undernourishment,13,NA,NA
+historical,social,food,2001,undernourishment,13.1,NA,NA
+historical,social,food,2002,undernourishment,13.3,NA,NA
+historical,social,food,2003,undernourishment,13,NA,NA
+historical,social,food,2004,undernourishment,12.9,NA,NA
+historical,social,food,2005,undernourishment,12.3,NA,NA
+historical,social,food,2006,undernourishment,11.5,NA,NA
+historical,social,food,2007,undernourishment,10.5,NA,NA
+historical,social,food,2008,undernourishment,10,NA,NA
+historical,social,food,2009,undernourishment,9.8,NA,NA
+historical,social,food,2010,undernourishment,8.6,NA,NA
+historical,social,food,2011,undernourishment,8.3,NA,NA
+historical,social,food,2012,undernourishment,8.2,NA,NA
+historical,social,food,2013,undernourishment,7.9,NA,NA
+historical,social,food,2014,undernourishment,7.8,NA,NA
+historical,social,food,2015,undernourishment,8,NA,NA
+historical,social,food,2016,undernourishment,7.8,NA,NA
+historical,social,food,2017,undernourishment,7.6,NA,NA
+historical,social,food,2018,undernourishment,7.7,NA,NA
+historical,social,food,2019,undernourishment,8,NA,NA
+historical,social,food,2020,undernourishment,9.3,NA,NA
+historical,social,food,2021,undernourishment,9.8,NA,NA
+bau,social,food,2022,undernourishment,10.518829391679565,10.067826415558898,10.969832367800233
+bau,social,food,2023,undernourishment,11.217353903821472,10.404962551089577,12.029745256553367
+bau,social,food,2024,undernourishment,11.91587841596338,10.675816365056388,13.155940466870373
+bau,social,food,2025,undernourishment,12.614402928105287,10.890115051186674,14.3386908050239
+bau,social,food,2026,undernourishment,13.312927440247194,11.054019176315128,15.57183570417926
+bau,social,food,2027,undernourishment,14.011451952389102,11.171964334012081,16.850939570766123
+bau,social,food,2028,undernourishment,14.709976464531008,11.2473645442667,18.17258838479532
+bau,social,food,2029,undernourishment,15.408500976672915,11.282960632805061,19.534041320540773
+bau,social,food,2030,undernourishment,16.10702548881482,11.281019081008115,20.93303189662153
+historical,social,health,2000,noUniversalHealth,72,NA,NA
+historical,social,health,2001,noUniversalHealth,71.4,NA,NA
+historical,social,health,2002,noUniversalHealth,70.8,NA,NA
+historical,social,health,2003,noUniversalHealth,70.2,NA,NA
+historical,social,health,2004,noUniversalHealth,69.6,NA,NA
+historical,social,health,2005,noUniversalHealth,69,NA,NA
+historical,social,health,2006,noUniversalHealth,68.4,NA,NA
+historical,social,health,2007,noUniversalHealth,67.8,NA,NA
+historical,social,health,2008,noUniversalHealth,67.2,NA,NA
+historical,social,health,2009,noUniversalHealth,66.6,NA,NA
+historical,social,health,2010,noUniversalHealth,66,NA,NA
+historical,social,health,2011,noUniversalHealth,65,NA,NA
+historical,social,health,2012,noUniversalHealth,64,NA,NA
+historical,social,health,2013,noUniversalHealth,63,NA,NA
+historical,social,health,2014,noUniversalHealth,62,NA,NA
+historical,social,health,2015,noUniversalHealth,61,NA,NA
+historical,social,health,2016,noUniversalHealth,60,NA,NA
+historical,social,health,2017,noUniversalHealth,59,NA,NA
+historical,social,health,2018,noUniversalHealth,58.5,NA,NA
+historical,social,health,2019,noUniversalHealth,58,NA,NA
+historical,social,health,2020,noUniversalHealth,58,NA,NA
+historical,social,health,2021,noUniversalHealth,58,NA,NA
+bau,social,health,2022,noUniversalHealth,58.00267748866988,57.82025057131686,58.1851044060229
+bau,social,health,2023,noUniversalHealth,58.00538494701477,57.59926128433215,58.411508609697385
+bau,social,health,2024,noUniversalHealth,58.00809240535966,57.32900159114325,58.68718321957607
+bau,social,health,2025,noUniversalHealth,58.01079986370455,57.01692275140423,59.004676976004866
+bau,social,health,2026,noUniversalHealth,58.01350732204944,56.667904486482,59.35911015761688
+bau,social,health,2027,noUniversalHealth,58.01621478039433,56.285446573890745,59.74698298689792
+bau,social,health,2028,noUniversalHealth,58.01892223873922,55.872214313678995,60.16563016379945
+bau,social,health,2029,noUniversalHealth,58.02162969708411,55.430324156589556,60.61293523757866
+bau,social,health,2030,noUniversalHealth,58.024337155429,54.961509136884665,61.08716517397334
+historical,social,health,2000,under5death,75.5,NA,NA
+historical,social,health,2001,under5death,75.1,NA,NA
+historical,social,health,2002,under5death,75.2,NA,NA
+historical,social,health,2003,under5death,73.4,NA,NA
+historical,social,health,2004,under5death,73.6,NA,NA
+historical,social,health,2005,under5death,50.4,NA,NA
+historical,social,health,2006,under5death,46.8,NA,NA
+historical,social,health,2007,under5death,47,NA,NA
+historical,social,health,2008,under5death,46.9,NA,NA
+historical,social,health,2009,under5death,47.2,NA,NA
+historical,social,health,2010,under5death,47.3,NA,NA
+historical,social,health,2011,under5death,47.5,NA,NA
+historical,social,health,2012,under5death,47.6,NA,NA
+historical,social,health,2013,under5death,47.4,NA,NA
+historical,social,health,2014,under5death,45.9,NA,NA
+historical,social,health,2015,under5death,46.1,NA,NA
+historical,social,health,2016,under5death,45.7,NA,NA
+historical,social,health,2017,under5death,45.7,NA,NA
+historical,social,health,2018,under5death,42.4,NA,NA
+historical,social,health,2019,under5death,42.5,NA,NA
+historical,social,health,2020,under5death,42.8,NA,NA
+historical,social,health,2021,under5death,42.2,NA,NA
+bau,social,health,2022,under5death,42.20006003934107,39.18983003510458,45.21029004357756
+bau,social,health,2023,under5death,42.20006003934107,37.93722184962792,46.46289822905422
+bau,social,health,2024,under5death,42.20006003934107,36.97196281943751,47.42815725924463
+bau,social,health,2025,under5death,42.20006003934107,36.154780686072634,48.24533939260951
+bau,social,health,2026,under5death,42.20006003934107,35.43180463418687,48.96831544449527
+bau,social,health,2027,under5death,42.20006003934107,34.77544392179029,49.62467615689185
+bau,social,health,2028,under5death,42.20006003934107,34.16933021582497,50.23078986285717
+bau,social,health,2029,under5death,42.20006003934107,33.602812624611516,50.79730745407062
+bau,social,health,2030,under5death,42.20006003934107,33.06850256986758,51.33161750881455
+historical,social,education,2000,adultLiteracy,19.099999999999994,NA,NA
+historical,social,education,2001,adultLiteracy,18.799999999999997,NA,NA
+historical,social,education,2002,adultLiteracy,18.400000000000006,NA,NA
+historical,social,education,2003,adultLiteracy,17.900000000000006,NA,NA
+historical,social,education,2004,adultLiteracy,17.5,NA,NA
+historical,social,education,2005,adultLiteracy,17.599999999999994,NA,NA
+historical,social,education,2006,adultLiteracy,17.400000000000006,NA,NA
+historical,social,education,2007,adultLiteracy,17.099999999999994,NA,NA
+historical,social,education,2008,adultLiteracy,16.599999999999994,NA,NA
+historical,social,education,2009,adultLiteracy,16.299999999999997,NA,NA
+historical,social,education,2010,adultLiteracy,15.900000000000006,NA,NA
+historical,social,education,2011,adultLiteracy,15.700000000000003,NA,NA
+historical,social,education,2012,adultLiteracy,15.200000000000003,NA,NA
+historical,social,education,2013,adultLiteracy,15,NA,NA
+historical,social,education,2014,adultLiteracy,14.599999999999994,NA,NA
+historical,social,education,2015,adultLiteracy,14.400000000000006,NA,NA
+historical,social,education,2016,adultLiteracy,14,NA,NA
+historical,social,education,2017,adultLiteracy,13.799999999999997,NA,NA
+historical,social,education,2018,adultLiteracy,13.700000000000003,NA,NA
+historical,social,education,2019,adultLiteracy,13.299999999999997,NA,NA
+historical,social,education,2020,adultLiteracy,13.200000000000003,NA,NA
+bau,social,education,2021,adultLiteracy,12.637352859419615,NA,NA
+bau,social,education,2022,adultLiteracy,12.333225889052049,12.180002454932657,12.48644932317144
+bau,social,education,2023,adultLiteracy,12.02909891868448,11.875875477669988,12.182322359698974
+bau,social,education,2024,adultLiteracy,11.724971948316915,11.571748495044476,11.878195401589354
+bau,social,education,2025,adultLiteracy,11.420844977949349,11.267621505523882,11.574068450374815
+bau,social,education,2026,adultLiteracy,11.116718007581783,10.963494507575971,11.269941507587594
+bau,social,education,2027,adultLiteracy,10.812591037214215,10.659367499668509,10.965814574759921
+bau,social,education,2028,adultLiteracy,10.50846406684665,10.355240480269266,10.661687653424032
+bau,social,education,2029,adultLiteracy,10.204337096479083,10.051113447846017,10.35756074511215
+bau,social,education,2030,adultLiteracy,9.900210126111517,9.746986400866541,10.053433851356493
+historical,social,education,2000,secondarySchool,63,NA,NA
+historical,social,education,2001,secondarySchool,62,NA,NA
+historical,social,education,2002,secondarySchool,61,NA,NA
+historical,social,education,2003,secondarySchool,60,NA,NA
+historical,social,education,2004,secondarySchool,60,NA,NA
+historical,social,education,2005,secondarySchool,59,NA,NA
+historical,social,education,2006,secondarySchool,58,NA,NA
+historical,social,education,2007,secondarySchool,57,NA,NA
+historical,social,education,2008,secondarySchool,56,NA,NA
+historical,social,education,2009,secondarySchool,55,NA,NA
+historical,social,education,2010,secondarySchool,53,NA,NA
+historical,social,education,2011,secondarySchool,52,NA,NA
+historical,social,education,2012,secondarySchool,50,NA,NA
+historical,social,education,2013,secondarySchool,49,NA,NA
+historical,social,education,2014,secondarySchool,48,NA,NA
+historical,social,education,2015,secondarySchool,47,NA,NA
+historical,social,education,2016,secondarySchool,46,NA,NA
+historical,social,education,2017,secondarySchool,45,NA,NA
+historical,social,education,2018,secondarySchool,44,NA,NA
+historical,social,education,2019,secondarySchool,43,NA,NA
+historical,social,education,2020,secondarySchool,42,NA,NA
+historical,social,education,2021,secondarySchool,42,NA,NA
+bau,social,education,2022,secondarySchool,41.18830984785266,40.72425126575017,41.652368429955146
+bau,social,education,2023,secondarySchool,40.592206183305514,39.87201023396626,41.31240213264477
+bau,social,education,2024,secondarySchool,39.99610251875838,38.96506680174057,41.027138235776185
+bau,social,education,2025,secondarySchool,39.39999885421124,38.01494265656243,40.78505505186005
+bau,social,education,2026,secondarySchool,38.8038951896641,37.02774957678812,40.580040802540076
+bau,social,education,2027,secondarySchool,38.20779152511696,36.00734945082752,40.4082335994064
+bau,social,education,2028,secondarySchool,37.61168786056982,34.95648355709403,40.26689216404562
+bau,social,education,2029,secondarySchool,37.01558419602269,33.87724706931447,40.1539213227309
+bau,social,education,2030,secondarySchool,36.41948053147554,32.771320944040156,40.06764011891093
+historical,social,income and work,2000,societalPoverty,84,NA,NA
+historical,social,income and work,2001,societalPoverty,84,NA,NA
+historical,social,income and work,2002,societalPoverty,84,NA,NA
+historical,social,income and work,2003,societalPoverty,84,NA,NA
+historical,social,income and work,2004,societalPoverty,83,NA,NA
+historical,social,income and work,2005,societalPoverty,83,NA,NA
+historical,social,income and work,2006,societalPoverty,82,NA,NA
+historical,social,income and work,2007,societalPoverty,81,NA,NA
+historical,social,income and work,2008,societalPoverty,80,NA,NA
+historical,social,income and work,2009,societalPoverty,80,NA,NA
+historical,social,income and work,2010,societalPoverty,79,NA,NA
+historical,social,income and work,2011,societalPoverty,79,NA,NA
+historical,social,income and work,2012,societalPoverty,78,NA,NA
+historical,social,income and work,2013,societalPoverty,77,NA,NA
+historical,social,income and work,2014,societalPoverty,76,NA,NA
+historical,social,income and work,2015,societalPoverty,76,NA,NA
+historical,social,income and work,2016,societalPoverty,75,NA,NA
+historical,social,income and work,2017,societalPoverty,74,NA,NA
+historical,social,income and work,2018,societalPoverty,73,NA,NA
+historical,social,income and work,2019,societalPoverty,73,NA,NA
+historical,social,income and work,2020,societalPoverty,73,NA,NA
+historical,social,income and work,2021,societalPoverty,74,NA,NA
+bau,social,income and work,2022,societalPoverty,73.52380952380955,72.94951492543404,74.09810412218505
+bau,social,income and work,2023,societalPoverty,73.0476190476191,72.23544383779885,73.85979425743933
+bau,social,income and work,2024,societalPoverty,72.57142857142865,71.57672114852993,73.56613599432738
+bau,social,income and work,2025,societalPoverty,72.0952380952382,70.9466488984872,73.2438272919892
+bau,social,income and work,2026,societalPoverty,71.61904761904775,70.3348858579692,72.9032093801263
+bau,social,income and work,2027,societalPoverty,71.1428571428573,69.73612841480073,72.54958587091386
+bau,social,income and work,2028,societalPoverty,70.66666666666686,69.14722598007756,72.18610735325615
+bau,social,income and work,2029,societalPoverty,70.1904761904764,68.56612577083592,71.81482661011688
+bau,social,income and work,2030,societalPoverty,69.71428571428595,67.99140191915946,71.43716950941244
+bau,social,income and work,2031,societalPoverty,69.2380952380955,67.42201625929728,71.05417421689371
+bau,social,income and work,2032,societalPoverty,68.76190476190504,66.85718505996567,70.66662446384443
+historical,social,income and work,2000,youthNEET,NA,NA,NA
+historical,social,income and work,2001,youthNEET,NA,NA,NA
+historical,social,income and work,2002,youthNEET,NA,NA,NA
+historical,social,income and work,2003,youthNEET,NA,NA,NA
+historical,social,income and work,2004,youthNEET,NA,NA,NA
+historical,social,income and work,2005,youthNEET,24.26,NA,NA
+historical,social,income and work,2006,youthNEET,23.77,NA,NA
+historical,social,income and work,2007,youthNEET,23.3,NA,NA
+historical,social,income and work,2008,youthNEET,22.91,NA,NA
+historical,social,income and work,2009,youthNEET,22.87,NA,NA
+historical,social,income and work,2010,youthNEET,22.45,NA,NA
+historical,social,income and work,2011,youthNEET,22.14,NA,NA
+historical,social,income and work,2012,youthNEET,21.83,NA,NA
+historical,social,income and work,2013,youthNEET,22.03,NA,NA
+historical,social,income and work,2014,youthNEET,22.03,NA,NA
+historical,social,income and work,2015,youthNEET,22.19,NA,NA
+historical,social,income and work,2016,youthNEET,22.35,NA,NA
+historical,social,income and work,2017,youthNEET,22.54,NA,NA
+historical,social,income and work,2018,youthNEET,22.73,NA,NA
+historical,social,income and work,2019,youthNEET,22.87,NA,NA
+historical,social,income and work,2020,youthNEET,24.91,NA,NA
+historical,social,income and work,2021,youthNEET,23.75,NA,NA
+bau,social,income and work,2022,youthNEET,23.873255705623432,23.22754585363533,24.518965557611534
+bau,social,income and work,2023,youthNEET,23.873255705623432,23.022419320302685,24.72409209094418
+bau,social,income and work,2024,youthNEET,23.873255705623432,22.857831968392755,24.88867944285411
+bau,social,income and work,2025,youthNEET,23.873255705623432,22.716350456751755,25.03016095449511
+bau,social,income and work,2026,youthNEET,23.873255705623432,22.590307605297586,25.15620380594928
+bau,social,income and work,2027,youthNEET,23.873255705623432,22.475520504191596,25.270990907055268
+bau,social,income and work,2028,youthNEET,23.873255705623432,22.3694094841274,25.377101927119465
+bau,social,income and work,2029,youthNEET,23.873255705623432,22.270250643430334,25.47626076781653
+bau,social,income and work,2030,youthNEET,23.873255705623432,22.17682441746568,25.569686993781183
+historical,social,water,2000,drinkingH2O,38,NA,NA
+historical,social,water,2001,drinkingH2O,38,NA,NA
+historical,social,water,2002,drinkingH2O,37,NA,NA
+historical,social,water,2003,drinkingH2O,37,NA,NA
+historical,social,water,2004,drinkingH2O,37,NA,NA
+historical,social,water,2005,drinkingH2O,37,NA,NA
+historical,social,water,2006,drinkingH2O,36,NA,NA
+historical,social,water,2007,drinkingH2O,36,NA,NA
+historical,social,water,2008,drinkingH2O,36,NA,NA
+historical,social,water,2009,drinkingH2O,35,NA,NA
+historical,social,water,2010,drinkingH2O,34,NA,NA
+historical,social,water,2011,drinkingH2O,33,NA,NA
+historical,social,water,2012,drinkingH2O,33,NA,NA
+historical,social,water,2013,drinkingH2O,32,NA,NA
+historical,social,water,2014,drinkingH2O,31,NA,NA
+historical,social,water,2015,drinkingH2O,30,NA,NA
+historical,social,water,2016,drinkingH2O,29,NA,NA
+historical,social,water,2017,drinkingH2O,28,NA,NA
+historical,social,water,2018,drinkingH2O,27,NA,NA
+historical,social,water,2019,drinkingH2O,26,NA,NA
+historical,social,water,2020,drinkingH2O,26,NA,NA
+bau,social,water,2021,drinkingH2O,25.40000000000203,NA,NA
+bau,social,water,2022,drinkingH2O,24.80000000000407,24.121656282564178,25.47834371744396
+bau,social,water,2023,drinkingH2O,24.200000000006106,23.369202011030897,25.030797988981316
+bau,social,water,2024,drinkingH2O,23.60000000000814,22.640677114854064,24.559322885162217
+bau,social,water,2025,drinkingH2O,23.000000000010175,21.927444408222307,24.072555591798043
+bau,social,water,2026,drinkingH2O,22.400000000012213,21.225074216411176,23.57492578361325
+bau,social,water,2027,drinkingH2O,21.80000000001425,20.53093510944892,23.069064890579583
+bau,social,water,2028,drinkingH2O,21.200000000016285,19.843312565136504,22.556687434896066
+bau,social,water,2029,drinkingH2O,20.600000000018323,19.16101567228721,22.038984327749436
+bau,social,water,2030,drinkingH2O,20.000000000020357,18.483177335714853,21.51682266432586
+historical,social,water,2000,sanitation,71,NA,NA
+historical,social,water,2001,sanitation,71,NA,NA
+historical,social,water,2002,sanitation,70,NA,NA
+historical,social,water,2003,sanitation,69,NA,NA
+historical,social,water,2004,sanitation,68,NA,NA
+historical,social,water,2005,sanitation,67,NA,NA
+historical,social,water,2006,sanitation,65,NA,NA
+historical,social,water,2007,sanitation,64,NA,NA
+historical,social,water,2008,sanitation,63,NA,NA
+historical,social,water,2009,sanitation,61,NA,NA
+historical,social,water,2010,sanitation,60,NA,NA
+historical,social,water,2011,sanitation,59,NA,NA
+historical,social,water,2012,sanitation,57,NA,NA
+historical,social,water,2013,sanitation,56,NA,NA
+historical,social,water,2014,sanitation,54,NA,NA
+historical,social,water,2015,sanitation,53,NA,NA
+historical,social,water,2016,sanitation,51,NA,NA
+historical,social,water,2017,sanitation,50,NA,NA
+historical,social,water,2018,sanitation,48,NA,NA
+historical,social,water,2019,sanitation,47,NA,NA
+historical,social,water,2020,sanitation,46,NA,NA
+bau,social,water,2021,sanitation,44.54509010685634,NA,NA
+bau,social,water,2022,sanitation,43.42964951931042,42.77061371413527,44.088685324485574
+bau,social,water,2023,sanitation,42.31420893176451,41.38047971085,43.247938152679026
+bau,social,water,2024,sanitation,41.19876834421859,39.91437463531865,42.483162053118534
+bau,social,water,2025,sanitation,40.08332775667268,38.39069486361402,41.77596064973134
+bau,social,water,2026,sanitation,38.96788716912676,36.81961016526026,41.116164172993265
+bau,social,water,2027,sanitation,37.85244658158085,35.207232371495174,40.497660791666526
+bau,social,water,2028,sanitation,36.73700599403493,33.557630961091874,39.91638102697799
+bau,social,water,2029,sanitation,35.62156540648902,31.873749598892026,39.36938121408601
+bau,social,water,2030,sanitation,34.5061248189431,30.157851771663196,38.85439786622301
+historical,social,energy,2000,energyAccess,21.599999999999994,NA,NA
+historical,social,energy,2001,energyAccess,21.200000000000003,NA,NA
+historical,social,energy,2002,energyAccess,20.799999999999997,NA,NA
+historical,social,energy,2003,energyAccess,19.900000000000006,NA,NA
+historical,social,energy,2004,energyAccess,19.900000000000006,NA,NA
+historical,social,energy,2005,energyAccess,19.200000000000003,NA,NA
+historical,social,energy,2006,energyAccess,18.5,NA,NA
+historical,social,energy,2007,energyAccess,17.900000000000006,NA,NA
+historical,social,energy,2008,energyAccess,17.200000000000003,NA,NA
+historical,social,energy,2009,energyAccess,17,NA,NA
+historical,social,energy,2010,energyAccess,16.400000000000006,NA,NA
+historical,social,energy,2011,energyAccess,15.400000000000006,NA,NA
+historical,social,energy,2012,energyAccess,14.900000000000006,NA,NA
+historical,social,energy,2013,energyAccess,14.200000000000003,NA,NA
+historical,social,energy,2014,energyAccess,13.700000000000003,NA,NA
+historical,social,energy,2015,energyAccess,13,NA,NA
+historical,social,energy,2016,energyAccess,11.799999999999997,NA,NA
+historical,social,energy,2017,energyAccess,11,NA,NA
+historical,social,energy,2018,energyAccess,10.099999999999994,NA,NA
+historical,social,energy,2019,energyAccess,9.799999999999997,NA,NA
+historical,social,energy,2020,energyAccess,9.5,NA,NA
+historical,social,energy,2021,energyAccess,8.599999999999994,NA,NA
+bau,social,energy,2022,energyAccess,7.980952380952385,7.704996090746244,8.256908671158525
+bau,social,energy,2023,energyAccess,7.361904761904775,6.971643633673085,7.752165890136465
+bau,social,energy,2024,energyAccess,6.742857142857167,6.264886827551909,7.220827458162424
+bau,social,energy,2025,energyAccess,6.123809523809555,5.571896943397274,6.675722104221837
+bau,social,energy,2026,energyAccess,5.504761904761949,4.887704881042359,6.121818928481539
+bau,social,energy,2027,energyAccess,4.885714285714339,4.2097621833979,5.561666388030779
+bau,social,energy,2028,energyAccess,4.26666666666673,3.5365549500573126,4.996778383276147
+bau,social,energy,2029,energyAccess,3.64761904761912,2.8670967911557406,4.4281413040825
+bau,social,energy,2030,energyAccess,3.02857142857151,2.2007025579530888,3.856440299189932
+historical,social,energy,2000,energyIndoor,51,NA,NA
+historical,social,energy,2001,energyIndoor,50,NA,NA
+historical,social,energy,2002,energyIndoor,50,NA,NA
+historical,social,energy,2003,energyIndoor,49,NA,NA
+historical,social,energy,2004,energyIndoor,48,NA,NA
+historical,social,energy,2005,energyIndoor,47,NA,NA
+historical,social,energy,2006,energyIndoor,47,NA,NA
+historical,social,energy,2007,energyIndoor,46,NA,NA
+historical,social,energy,2008,energyIndoor,45,NA,NA
+historical,social,energy,2009,energyIndoor,44,NA,NA
+historical,social,energy,2010,energyIndoor,43,NA,NA
+historical,social,energy,2011,energyIndoor,41,NA,NA
+historical,social,energy,2012,energyIndoor,40,NA,NA
+historical,social,energy,2013,energyIndoor,39,NA,NA
+historical,social,energy,2014,energyIndoor,38,NA,NA
+historical,social,energy,2015,energyIndoor,36,NA,NA
+historical,social,energy,2016,energyIndoor,35,NA,NA
+historical,social,energy,2017,energyIndoor,34,NA,NA
+historical,social,energy,2018,energyIndoor,33,NA,NA
+historical,social,energy,2019,energyIndoor,31,NA,NA
+historical,social,energy,2020,energyIndoor,30,NA,NA
+historical,social,energy,2021,energyIndoor,29,NA,NA
+bau,social,energy,2022,energyIndoor,27.952380952381734,27.47744574135797,28.4273161634055
+bau,social,energy,2023,energyIndoor,26.90476190476347,26.23310208808513,27.576421721441807
+bau,social,energy,2024,energyIndoor,25.857142857145202,25.034530941348592,26.679754772941813
+bau,social,energy,2025,energyIndoor,24.809523809526937,23.8596533874794,25.759394231574472
+bau,social,energy,2026,energyIndoor,23.76190476190867,22.69991734515132,24.82389217866602
+bau,social,energy,2027,energyIndoor,22.714285714290405,21.550936786401124,23.877634642179686
+bau,social,energy,2028,energyIndoor,21.66666666667214,20.41010620943527,22.923227123909008
+bau,social,energy,2029,energyIndoor,20.619047619053873,19.275727985697195,21.96236725241055
+bau,social,energy,2030,energyIndoor,19.57142857143561,18.14662293836431,20.996234204506912
+historical,social,connectivity,2000,internet,94.65,NA,NA
+historical,social,connectivity,2001,internet,93.19,NA,NA
+historical,social,connectivity,2002,internet,90.85,NA,NA
+historical,social,connectivity,2003,internet,89.18,NA,NA
+historical,social,connectivity,2004,internet,87.36,NA,NA
+historical,social,connectivity,2005,internet,84.4,NA,NA
+historical,social,connectivity,2006,internet,82.7,NA,NA
+historical,social,connectivity,2007,internet,79.7,NA,NA
+historical,social,connectivity,2008,internet,77.2,NA,NA
+historical,social,connectivity,2009,internet,74.6,NA,NA
+historical,social,connectivity,2010,internet,71.5,NA,NA
+historical,social,connectivity,2011,internet,69,NA,NA
+historical,social,connectivity,2012,internet,66.5,NA,NA
+historical,social,connectivity,2013,internet,64.6,NA,NA
+historical,social,connectivity,2014,internet,62.5,NA,NA
+historical,social,connectivity,2015,internet,60,NA,NA
+historical,social,connectivity,2016,internet,57,NA,NA
+historical,social,connectivity,2017,internet,54.4,NA,NA
+historical,social,connectivity,2018,internet,51,NA,NA
+historical,social,connectivity,2019,internet,46.3,NA,NA
+historical,social,connectivity,2020,internet,40.4,NA,NA
+historical,social,connectivity,2021,internet,37.4,NA,NA
+bau,social,connectivity,2022,internet,33.45483532068752,32.58012837777057,34.32954226360447
+bau,social,connectivity,2023,internet,29.50967064137504,27.95374130451747,31.065599978232605
+bau,social,connectivity,2024,internet,25.564505962062555,23.26080877987802,27.86820314424709
+bau,social,connectivity,2025,internet,21.61934128275007,18.494755683825918,24.743926881674227
+bau,social,connectivity,2026,internet,17.674176603437587,13.658137686049457,21.69021552082572
+bau,social,connectivity,2027,internet,13.729011924125103,8.75475518754579,18.703268660704417
+bau,social,connectivity,2028,internet,9.78384724481262,3.7882964975856037,15.779397992039637
+bau,social,connectivity,2029,internet,5.838682565500136,-1.2379249367405762,12.915290067740852
+bau,social,connectivity,2030,internet,1.8935178861876523,-6.32098600189191,10.108021774267218
+historical,social,connectivity,2000,publicTrans,NA,NA,NA
+historical,social,connectivity,2001,publicTrans,NA,NA,NA
+historical,social,connectivity,2002,publicTrans,NA,NA,NA
+historical,social,connectivity,2003,publicTrans,NA,NA,NA
+historical,social,connectivity,2004,publicTrans,NA,NA,NA
+historical,social,connectivity,2005,publicTrans,NA,NA,NA
+historical,social,connectivity,2006,publicTrans,NA,NA,NA
+historical,social,connectivity,2007,publicTrans,NA,NA,NA
+historical,social,connectivity,2008,publicTrans,NA,NA,NA
+historical,social,connectivity,2009,publicTrans,NA,NA,NA
+historical,social,connectivity,2010,publicTrans,NA,NA,NA
+historical,social,connectivity,2011,publicTrans,NA,NA,NA
+historical,social,connectivity,2012,publicTrans,NA,NA,NA
+historical,social,connectivity,2013,publicTrans,NA,NA,NA
+historical,social,connectivity,2014,publicTrans,NA,NA,NA
+historical,social,connectivity,2015,publicTrans,NA,NA,NA
+historical,social,connectivity,2016,publicTrans,NA,NA,NA
+historical,social,connectivity,2017,publicTrans,NA,NA,NA
+historical,social,connectivity,2018,publicTrans,NA,NA,NA
+historical,social,connectivity,2019,publicTrans,NA,NA,NA
+historical,social,connectivity,2020,publicTrans,48.4,NA,NA
+historical,social,connectivity,2021,publicTrans,48.4,NA,NA
+bau,social,connectivity,2022,publicTrans,48.4,NA,NA
+bau,social,connectivity,2023,publicTrans,48.4,NA,NA
+bau,social,connectivity,2024,publicTrans,48.4,NA,NA
+bau,social,connectivity,2025,publicTrans,48.4,NA,NA
+bau,social,connectivity,2026,publicTrans,48.4,NA,NA
+bau,social,connectivity,2027,publicTrans,48.4,NA,NA
+bau,social,connectivity,2028,publicTrans,48.4,NA,NA
+bau,social,connectivity,2029,publicTrans,48.4,NA,NA
+bau,social,connectivity,2030,publicTrans,48.4,NA,NA
+historical,social,housing,2000,urbanSlums,31.2,NA,NA
+historical,social,housing,2001,urbanSlums,31.049999999999997,NA,NA
+historical,social,housing,2002,urbanSlums,30.9,NA,NA
+historical,social,housing,2003,urbanSlums,30.5,NA,NA
+historical,social,housing,2004,urbanSlums,30.1,NA,NA
+historical,social,housing,2005,urbanSlums,29.65,NA,NA
+historical,social,housing,2006,urbanSlums,29.2,NA,NA
+historical,social,housing,2007,urbanSlums,28.7,NA,NA
+historical,social,housing,2008,urbanSlums,28.2,NA,NA
+historical,social,housing,2009,urbanSlums,27.75,NA,NA
+historical,social,housing,2010,urbanSlums,27.3,NA,NA
+historical,social,housing,2011,urbanSlums,26.8,NA,NA
+historical,social,housing,2012,urbanSlums,26.3,NA,NA
+historical,social,housing,2013,urbanSlums,25.85,NA,NA
+historical,social,housing,2014,urbanSlums,25.4,NA,NA
+historical,social,housing,2015,urbanSlums,25,NA,NA
+historical,social,housing,2016,urbanSlums,24.6,NA,NA
+historical,social,housing,2017,urbanSlums,24.5,NA,NA
+historical,social,housing,2018,urbanSlums,24.4,NA,NA
+historical,social,housing,2019,urbanSlums,24.299999999999997,NA,NA
+historical,social,housing,2020,urbanSlums,24.2,NA,NA
+bau,social,housing,2021,urbanSlums,24.099860116737936,NA,NA
+bau,social,housing,2022,urbanSlums,23.99970073350556,23.792673454987693,24.206728012023426
+bau,social,housing,2023,urbanSlums,23.89954135027318,23.554304397925915,24.244778302620443
+bau,social,housing,2024,urbanSlums,23.799381967040798,23.29452234752879,24.304241586552806
+bau,social,housing,2025,urbanSlums,23.69922258380842,23.01591725277106,24.38252791484578
+bau,social,housing,2026,urbanSlums,23.59906320057604,22.72030316039041,24.47782324076167
+bau,social,housing,2027,urbanSlums,23.49890381734366,22.409048703691877,24.588758930995443
+bau,social,housing,2028,urbanSlums,23.398744434111283,22.083235828312002,24.714253039910563
+bau,social,housing,2029,urbanSlums,23.298585050878902,21.74374833511279,24.853421766645013
+bau,social,housing,2030,urbanSlums,23.19842566764652,21.391326067189954,25.00552526810309
+historical,social,equality,2000,genderGapIndex,NA,NA,NA
+historical,social,equality,2001,genderGapIndex,NA,NA,NA
+historical,social,equality,2002,genderGapIndex,NA,NA,NA
+historical,social,equality,2003,genderGapIndex,NA,NA,NA
+historical,social,equality,2004,genderGapIndex,NA,NA,NA
+historical,social,equality,2005,genderGapIndex,35.5,NA,NA
+historical,social,equality,2006,genderGapIndex,35.2,NA,NA
+historical,social,equality,2007,genderGapIndex,34.099999999999994,NA,NA
+historical,social,equality,2008,genderGapIndex,33.8,NA,NA
+historical,social,equality,2009,genderGapIndex,33.599999999999994,NA,NA
+historical,social,equality,2010,genderGapIndex,33.5,NA,NA
+historical,social,equality,2011,genderGapIndex,32.900000000000006,NA,NA
+historical,social,equality,2012,genderGapIndex,32.3,NA,NA
+historical,social,equality,2013,genderGapIndex,32.3,NA,NA
+historical,social,equality,2014,genderGapIndex,31.799999999999997,NA,NA
+historical,social,equality,2015,genderGapIndex,31.700000000000003,NA,NA
+historical,social,equality,2016,genderGapIndex,32,NA,NA
+historical,social,equality,2017,genderGapIndex,32,NA,NA
+historical,social,equality,2018,genderGapIndex,31.400000000000006,NA,NA
+historical,social,equality,2019,genderGapIndex,31.599999999999994,NA,NA
+historical,social,equality,2020,genderGapIndex,31.900000000000006,NA,NA
+historical,social,equality,2021,genderGapIndex,31.700000000000003,NA,NA
+bau,social,equality,2022,genderGapIndex,31.624887347287853,31.24397346889435,32.00580122568136
+bau,social,equality,2023,genderGapIndex,31.549774694575703,30.945282784572385,32.15426660457902
+bau,social,equality,2024,genderGapIndex,31.474662041863553,30.652112117410805,32.297211966316304
+bau,social,equality,2025,genderGapIndex,31.399549389151403,30.353474712886243,32.44562406541657
+bau,social,equality,2026,genderGapIndex,31.324436736439253,30.04611551770166,32.60275795517685
+bau,social,equality,2027,genderGapIndex,31.249324083727103,29.728886572097995,32.769761595356215
+bau,social,equality,2028,genderGapIndex,31.174211431014953,29.401419674348958,32.94700318768095
+bau,social,equality,2029,genderGapIndex,31.099098778302803,29.063680046401693,33.134517510203914
+bau,social,equality,2030,genderGapIndex,31.023986125590653,28.715785581773204,33.3321866694081
+historical,social,equality,2000,racialInequality,NA,NA,NA
+historical,social,equality,2001,racialInequality,NA,NA,NA
+historical,social,equality,2002,racialInequality,NA,NA,NA
+historical,social,equality,2003,racialInequality,NA,NA,NA
+historical,social,equality,2004,racialInequality,NA,NA,NA
+historical,social,equality,2005,racialInequality,NA,NA,NA
+historical,social,equality,2006,racialInequality,NA,NA,NA
+historical,social,equality,2007,racialInequality,NA,NA,NA
+historical,social,equality,2008,racialInequality,NA,NA,NA
+historical,social,equality,2009,racialInequality,NA,NA,NA
+historical,social,equality,2010,racialInequality,NA,NA,NA
+historical,social,equality,2011,racialInequality,NA,NA,NA
+historical,social,equality,2012,racialInequality,NA,NA,NA
+historical,social,equality,2013,racialInequality,NA,NA,NA
+historical,social,social cohesion,2000,lifeSatisfaction,NA,NA,NA
+historical,social,social cohesion,2001,lifeSatisfaction,NA,NA,NA
+historical,social,social cohesion,2002,lifeSatisfaction,NA,NA,NA
+historical,social,social cohesion,2003,lifeSatisfaction,NA,NA,NA
+historical,social,social cohesion,2004,lifeSatisfaction,NA,NA,NA
+historical,social,social cohesion,2005,lifeSatisfaction,44.8,NA,NA
+historical,social,social cohesion,2006,lifeSatisfaction,43.7,NA,NA
+historical,social,social cohesion,2007,lifeSatisfaction,34.9,NA,NA
+historical,social,social cohesion,2008,lifeSatisfaction,42,NA,NA
+historical,social,social cohesion,2009,lifeSatisfaction,52.8,NA,NA
+historical,social,social cohesion,2010,lifeSatisfaction,58.8,NA,NA
+historical,social,social cohesion,2011,lifeSatisfaction,35.6,NA,NA
+historical,social,social cohesion,2012,lifeSatisfaction,33.4,NA,NA
+historical,social,social cohesion,2013,lifeSatisfaction,39.2,NA,NA
+historical,social,social cohesion,2014,lifeSatisfaction,37.8,NA,NA
+historical,social,social cohesion,2015,lifeSatisfaction,40.7,NA,NA
+historical,social,social cohesion,2016,lifeSatisfaction,35.3,NA,NA
+historical,social,social cohesion,2017,lifeSatisfaction,34.5,NA,NA
+historical,social,social cohesion,2018,lifeSatisfaction,33.8,NA,NA
+historical,social,social cohesion,2019,lifeSatisfaction,37.3,NA,NA
+historical,social,social cohesion,2020,lifeSatisfaction,39.6,NA,NA
+historical,social,social cohesion,2021,lifeSatisfaction,40.5,NA,NA
+bau,social,social cohesion,2022,lifeSatisfaction,40.49990986799845,34.25104734984899,46.748772386147905
+bau,social,social cohesion,2023,lifeSatisfaction,40.49990986799845,31.6055523281349,49.394267407861996
+bau,social,social cohesion,2024,lifeSatisfaction,40.49990986799845,29.535501882969932,51.46431785302697
+bau,social,social cohesion,2025,lifeSatisfaction,40.49990986799845,27.75622112752705,53.24359860846985
+bau,social,social cohesion,2026,lifeSatisfaction,40.49990986799845,26.15809082993108,54.84172890606582
+bau,social,social cohesion,2027,lifeSatisfaction,40.49990986799845,24.685183018168626,56.31463671782827
+bau,social,social cohesion,2028,lifeSatisfaction,40.49990986799845,23.30442721858253,57.695392517414376
+bau,social,social cohesion,2029,lifeSatisfaction,40.49990986799845,21.994363505124504,59.0054562308724
+bau,social,social cohesion,2030,lifeSatisfaction,40.49990986799845,20.740137471611966,60.259682264384935
+historical,social,social cohesion,2000,PalmaOver2_share,70.8,NA,NA
+historical,social,social cohesion,2001,PalmaOver2_share,71.3,NA,NA
+historical,social,social cohesion,2002,PalmaOver2_share,69.1,NA,NA
+historical,social,social cohesion,2003,PalmaOver2_share,68.8,NA,NA
+historical,social,social cohesion,2004,PalmaOver2_share,67,NA,NA
+historical,social,social cohesion,2005,PalmaOver2_share,67.6,NA,NA
+historical,social,social cohesion,2006,PalmaOver2_share,67.3,NA,NA
+historical,social,social cohesion,2007,PalmaOver2_share,70.9,NA,NA
+historical,social,social cohesion,2008,PalmaOver2_share,67,NA,NA
+historical,social,social cohesion,2009,PalmaOver2_share,67,NA,NA
+historical,social,social cohesion,2010,PalmaOver2_share,67.2,NA,NA
+historical,social,social cohesion,2011,PalmaOver2_share,65.9,NA,NA
+historical,social,social cohesion,2012,PalmaOver2_share,65.8,NA,NA
+historical,social,social cohesion,2013,PalmaOver2_share,69.2,NA,NA
+historical,social,social cohesion,2014,PalmaOver2_share,64.2,NA,NA
+historical,social,social cohesion,2015,PalmaOver2_share,68.6,NA,NA
+historical,social,social cohesion,2016,PalmaOver2_share,65.2,NA,NA
+historical,social,social cohesion,2017,PalmaOver2_share,65.3,NA,NA
+historical,social,social cohesion,2018,PalmaOver2_share,65.3,NA,NA
+historical,social,social cohesion,2019,PalmaOver2_share,65.4,NA,NA
+historical,social,social cohesion,2020,PalmaOver2_share,69.7,NA,NA
+bau,social,social cohesion,2021,PalmaOver2_share,66.8824770409143,NA,NA
+bau,social,social cohesion,2022,PalmaOver2_share,66.8824770409143,64.87839910449394,68.88655497733465
+bau,social,social cohesion,2023,PalmaOver2_share,66.8824770409143,64.81198962004996,68.95296446177863
+bau,social,social cohesion,2024,PalmaOver2_share,66.8824770409143,64.74764497616822,69.01730910566039
+bau,social,social cohesion,2025,PalmaOver2_share,66.8824770409143,64.68518376750298,69.07977031432561
+bau,social,social cohesion,2026,PalmaOver2_share,66.8824770409143,64.62444969075017,69.14050439107842
+bau,social,social cohesion,2027,PalmaOver2_share,66.8824770409143,64.5653069352035,69.1996471466251
+bau,social,social cohesion,2028,PalmaOver2_share,66.8824770409143,64.50763660764086,69.25731747418773
+bau,social,social cohesion,2029,PalmaOver2_share,66.8824770409143,64.45133392126442,69.31362016056418
+bau,social,social cohesion,2030,PalmaOver2_share,66.8824770409143,64.39630595811819,69.3686481237104
+historical,social,political voice,2000,voiceAccount,51.3,NA,NA
+historical,social,political voice,2001,voiceAccount,51.9,NA,NA
+historical,social,political voice,2002,voiceAccount,52.4,NA,NA
+historical,social,political voice,2003,voiceAccount,52.3,NA,NA
+historical,social,political voice,2004,voiceAccount,51.9,NA,NA
+historical,social,political voice,2005,voiceAccount,49.2,NA,NA
+historical,social,political voice,2006,voiceAccount,47.8,NA,NA
+historical,social,political voice,2007,voiceAccount,48.1,NA,NA
+historical,social,political voice,2008,voiceAccount,48.7,NA,NA
+historical,social,political voice,2009,voiceAccount,49.3,NA,NA
+historical,social,political voice,2010,voiceAccount,48.4,NA,NA
+historical,social,political voice,2011,voiceAccount,49.2,NA,NA
+historical,social,political voice,2012,voiceAccount,49.9,NA,NA
+historical,social,political voice,2013,voiceAccount,50.7,NA,NA
+historical,social,political voice,2014,voiceAccount,49.5,NA,NA
+historical,social,political voice,2015,voiceAccount,49.2,NA,NA
+historical,social,political voice,2016,voiceAccount,49.6,NA,NA
+historical,social,political voice,2017,voiceAccount,49.9,NA,NA
+historical,social,political voice,2018,voiceAccount,50.4,NA,NA
+historical,social,political voice,2019,voiceAccount,50.2,NA,NA
+historical,social,political voice,2020,voiceAccount,50.6,NA,NA
+historical,social,political voice,2021,voiceAccount,50.9,NA,NA
+bau,social,political voice,2022,voiceAccount,50.89996999154906,50.049331664838704,51.75060831825941
+bau,social,political voice,2023,voiceAccount,50.89996999154906,49.69695364849205,52.102986334606065
+bau,social,political voice,2024,voiceAccount,50.89996999154906,49.42649347955478,52.373446503543335
+bau,social,political voice,2025,voiceAccount,50.89996999154906,49.198429583521424,52.60151039957669
+bau,social,political voice,2026,voiceAccount,50.89996999154906,48.99745361158981,52.8024863715083
+bau,social,political voice,2027,voiceAccount,50.89996999154906,48.815714837518925,52.98422514557919
+bau,social,political voice,2028,voiceAccount,50.89996999154906,48.64854983050604,53.15139015259207
+bau,social,political voice,2029,voiceAccount,50.89996999154906,48.49292029793681,53.3070196851613
+bau,social,political voice,2030,voiceAccount,50.89996999154906,48.34671597496888,53.45322400812923
+historical,social,peace and justice,2000,controlCorruption,82.5,NA,NA
+historical,social,peace and justice,2001,controlCorruption,82.3,NA,NA
+historical,social,peace and justice,2002,controlCorruption,82.1,NA,NA
+historical,social,peace and justice,2003,controlCorruption,82,NA,NA
+historical,social,peace and justice,2004,controlCorruption,82.7,NA,NA
+historical,social,peace and justice,2005,controlCorruption,83.2,NA,NA
+historical,social,peace and justice,2006,controlCorruption,83.3,NA,NA
+historical,social,peace and justice,2007,controlCorruption,83.5,NA,NA
+historical,social,peace and justice,2008,controlCorruption,84.6,NA,NA
+historical,social,peace and justice,2009,controlCorruption,84.8,NA,NA
+historical,social,peace and justice,2010,controlCorruption,83.8,NA,NA
+historical,social,peace and justice,2011,controlCorruption,84.1,NA,NA
+historical,social,peace and justice,2012,controlCorruption,85,NA,NA
+historical,social,peace and justice,2013,controlCorruption,84.6,NA,NA
+historical,social,peace and justice,2014,controlCorruption,84.8,NA,NA
+historical,social,peace and justice,2015,controlCorruption,85.3,NA,NA
+historical,social,peace and justice,2016,controlCorruption,85.3,NA,NA
+historical,social,peace and justice,2017,controlCorruption,85.2,NA,NA
+historical,social,peace and justice,2018,controlCorruption,84.8,NA,NA
+historical,social,peace and justice,2019,controlCorruption,85.7,NA,NA
+historical,social,peace and justice,2020,controlCorruption,85,NA,NA
+historical,social,peace and justice,2021,controlCorruption,84.7,NA,NA
+bau,social,peace and justice,2022,controlCorruption,84.7,84.18799172941355,85.21200827058645
+bau,social,peace and justice,2023,controlCorruption,84.7,83.97591095968946,85.42408904031055
+bau,social,peace and justice,2024,controlCorruption,84.7,83.81317566144881,85.5868243385512
+bau,social,peace and justice,2025,controlCorruption,84.7,83.67598345882712,85.72401654117289
+bau,social,peace and justice,2026,controlCorruption,84.7,83.55511470192661,85.8448852980734
+bau,social,peace and justice,2027,controlCorruption,84.7,83.44584099297835,85.95415900702166
+bau,social,peace and justice,2028,controlCorruption,84.7,83.34535344682,86.05464655318
+bau,social,peace and justice,2029,controlCorruption,84.7,83.25182191937891,86.1481780806211
+bau,social,peace and justice,2030,controlCorruption,84.7,83.16397518824067,86.23602481175934
+historical,social,peace and justice,2000,homicideOver5,28.1,NA,NA
+historical,social,peace and justice,2001,homicideOver5,28.2,NA,NA
+historical,social,peace and justice,2002,homicideOver5,28.3,NA,NA
+historical,social,peace and justice,2003,homicideOver5,28.2,NA,NA
+historical,social,peace and justice,2004,homicideOver5,28.1,NA,NA
+historical,social,peace and justice,2005,homicideOver5,28.2,NA,NA
+historical,social,peace and justice,2006,homicideOver5,28.1,NA,NA
+historical,social,peace and justice,2007,homicideOver5,29.4,NA,NA
+historical,social,peace and justice,2008,homicideOver5,27.9,NA,NA
+historical,social,peace and justice,2009,homicideOver5,21.6,NA,NA
+historical,social,peace and justice,2010,homicideOver5,21.3,NA,NA
+historical,social,peace and justice,2011,homicideOver5,19.8,NA,NA
+historical,social,peace and justice,2012,homicideOver5,20.9,NA,NA
+historical,social,peace and justice,2013,homicideOver5,20.9,NA,NA
+historical,social,peace and justice,2014,homicideOver5,20.8,NA,NA
+historical,social,peace and justice,2015,homicideOver5,17,NA,NA
+historical,social,peace and justice,2016,homicideOver5,22.5,NA,NA
+historical,social,peace and justice,2017,homicideOver5,22.2,NA,NA
+historical,social,peace and justice,2018,homicideOver5,14.7,NA,NA
+historical,social,peace and justice,2019,homicideOver5,13.1,NA,NA
+historical,social,peace and justice,2020,homicideOver5,18.4,NA,NA
+historical,social,peace and justice,2021,homicideOver5,18.8,NA,NA
+bau,social,peace and justice,2022,homicideOver5,18.4843986576124,15.64176042304732,21.327036892177478
+bau,social,peace and justice,2023,homicideOver5,18.4843986576124,14.883514074228048,22.085283240996752
+bau,social,peace and justice,2024,homicideOver5,18.4843986576124,14.259218491856277,22.70957882336852
+bau,social,peace and justice,2025,homicideOver5,18.4843986576124,13.715968613736036,23.252828701488763
+bau,social,peace and justice,2026,homicideOver5,18.4843986576124,13.228573057995671,23.74022425722913
+bau,social,peace and justice,2027,homicideOver5,18.4843986576124,12.782690108078288,24.186107207146513
+bau,social,peace and justice,2028,homicideOver5,18.4843986576124,12.369232426505171,24.59956488871963
+bau,social,peace and justice,2029,homicideOver5,18.4843986576124,11.98201173554155,24.98678557968325
+bau,social,peace and justice,2030,homicideOver5,18.4843986576124,11.616588720335319,25.352208594889483

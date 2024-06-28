@@ -1,0 +1,36 @@
+place,placeCode,domain,dimension,indicator,indicatorCode,valueStart,ratioStart,valueEnd,ratioEnd,diff,betterWorse
+World,WLD,ecological,climate change,co2_ppm,clim1,369.62,0.28028571428571425,413.4,0.9057142857142857,0.6254285714285714,worsening
+World,WLD,ecological,climate change,erf_wm2,clim2,1.78,0.78,2.7800000000000002,1.7800000000000002,1.0000000000000002,worsening
+World,WLD,ecological,ocean acidification,omega_a,acid,2.9865000000000004,-0.3427536231884062,2.809,-0.08550724637681184,0.25724637681159435,worsening
+World,WLD,ecological,chemical pollution,chemicalsMt_Hzd,chem,933.3984764705881,14.556641274509802,1916.0655352941176,30.934425588235293,16.377784313725492,worsening
+World,WLD,ecological,nutrient pollution,nitrogenMt,fertN,133.58847454,1.1546528151612905,190.79116804,2.0772769038709678,0.9226240887096773,worsening
+World,WLD,ecological,nutrient pollution,phosphorusMt,fertP,13.821275294366195,1.229237950704225,23.018040867042252,2.712587236619718,1.483349285915493,worsening
+World,WLD,ecological,air pollution,interhemAOD,airPol,0.08,-0.2857142857142857,0.08,-0.2857142857142857,0,improving
+World,WLD,ecological,freshwater disruption,blueDev,H2Oblu,18.2325,0.7875000000000001,18.2,0.7843137254901962,-0.0031862745098039102,improving
+World,WLD,ecological,freshwater disruption,soilDev,H2Ogrn,15.9025,0.4326576576576575,19.253,0.7345045045045047,0.30184684684684715,worsening
+World,WLD,ecological,land conversion,forestAreaMKM2,land,39.185,0.5457107075767063,38.24650796041571,0.6044766461856161,0.058765938608909885,worsening
+World,WLD,ecological,biodiversity breakdown,extinction1900,bio2,100,9,100,9,0,improving
+World,WLD,ecological,biodiversity breakdown,hanppGtC,bio1,14.655,1.6216457960644006,16.854999999999997,2.01520572450805,0.3935599284436493,worsening
+World,WLD,ecological,ozone depletion,totalOzone,O3dep,283.04,-0.5028571428571422,283.24,-0.5171428571428571,-0.01428571428571479,improving
+World,WLD,social,food,foodInsecurity,food1,21.35,0.21350000000000002,29.4,0.29400000000000004,0.08050000000000002,worsening
+World,WLD,social,food,undernourishment,food2,13.05,0.13049999999999995,9.55,0.09549999999999992,-0.03500000000000003,improving
+World,WLD,social,health,noUniversalHealth,hlth1,71.7,0.7170000000000001,58,0.5800000000000001,-0.137,improving
+World,WLD,social,health,under5death,hlth2,75.3,0.753,42.5,0.42500000000000004,-0.32799999999999996,improving
+World,WLD,social,education,adultLiteracy,edu1,18.949999999999996,0.1895,12.918676429709809,0.12918676429709808,-0.060313235702901924,improving
+World,WLD,social,education,secondarySchool,edu2,62.5,0.625,42,0.42000000000000004,-0.20499999999999996,improving
+World,WLD,social,income and work,societalPoverty,inWk1,84,0.84,73.5,0.735,-0.10499999999999998,improving
+World,WLD,social,income and work,youthNEET,inWk2,24.015,0.24014999999999997,24.33,0.24330000000000007,0.003150000000000097,worsening
+World,WLD,social,water,drinkingH2O,watr1,38,0.38,25.700000000001015,0.2570000000000101,-0.1229999999999899,improving
+World,WLD,social,water,sanitation,watr2,71,0.71,45.272545053428175,0.4527254505342817,-0.25727454946571826,improving
+World,WLD,social,energy,energyAccess,enrgy1,21.4,0.21399999999999997,9.049999999999997,0.09050000000000002,-0.12349999999999994,improving
+World,WLD,social,energy,energyIndoor,enrgy2,50.5,0.505,29.5,0.29500000000000004,-0.20999999999999996,improving
+World,WLD,social,connectivity,internet,con2,93.92,0.9392,38.9,0.389,-0.5502,improving
+World,WLD,social,connectivity,publicTrans,con1,NA,0.484,48.4,0.484,0,improving
+World,WLD,social,housing,urbanSlums,hous,31.125,0.31125,24.149930058368966,0.24149930058368974,-0.06975069941631029,improving
+World,WLD,social,equality,genderGapIndex,eqDi1,35.35,0.3534999999999999,31.800000000000004,0.31800000000000006,-0.035499999999999865,improving
+World,WLD,social,equality,racialEquality,eqDi2,NA,-1.0000000000065512e-5,NA,-1.0000000000065512e-5,0,improving
+World,WLD,social,social cohesion,lifeSatisfaction,socCo1,44.25,0.4425,40.05,0.4005000000000001,-0.041999999999999926,improving
+World,WLD,social,social cohesion,PalmaOver2_share,socCo2,71.05,0.7104999999999999,68.29123852045714,0.6829123852045715,-0.027587614795428372,improving
+World,WLD,social,political voice,voiceAccount,poVo,51.599999999999994,0.516,50.75,0.5075000000000001,-0.008499999999999952,improving
+World,WLD,social,peace and justice,controlCorruption,peJu1,82.4,0.8240000000000001,84.85,0.8485,0.024499999999999966,worsening
+World,WLD,social,peace and justice,homicideOver5,peJu2,28.15,0.2815,18.6,0.18599999999999994,-0.09550000000000003,improving
