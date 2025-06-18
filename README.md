@@ -6,7 +6,7 @@ Fanning, A.L. and Raworth, K. (2025). Doughnut of Social and Planetary Boundarie
 Interactive data visualisations and additional resources are available on the following webpage: https://doughnuteconomics.org/doughnut.
 
 This GitHub repository is archived on Zenodo with the following concept DOI (that reflects updates to the repository version through time):
-(Zenodo DOI to be added when it has been minted).
+https://doi.org/10.5281/zenodo.15688961
 
 The data analysis was conducted using R (v.4.4.1). Beyond this base R version, the analysis is dependent on several R packages: 
 - the tidyverse suite of packages (v.2.0.0) for organising, manipulating, and visualising the data,
